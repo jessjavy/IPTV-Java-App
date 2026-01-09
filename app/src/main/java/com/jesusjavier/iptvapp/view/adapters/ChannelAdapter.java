@@ -1,4 +1,2 @@
-package com.jesusjavier.iptvapp.view.adapters;
-
-public class ChannelAdapter {
+package com.jesusjavier.iptvapp.view.adapters;public class ChannelAdapter {
 }
