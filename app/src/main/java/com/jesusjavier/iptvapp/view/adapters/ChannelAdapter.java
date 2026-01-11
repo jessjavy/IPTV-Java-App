@@ -46,7 +46,7 @@ public class ChannelAdapter extends RecyclerView.Adapter<ChannelAdapter.ChannelV
         public ChannelViewHolder(@NonNull View itemView) {
             super(itemView);
             txtName = itemView.findViewById(R.id.txt_channel_name);
-            imgLogo=itemView.findViewById(R.id.img_logo);
+            imgLogo = itemView.findViewById(R.id.img_logo);
         }
     }
 }
